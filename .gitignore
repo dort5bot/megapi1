@@ -1,0 +1,24 @@
+# Ortam değişkenleri
+.env
+
+# CSV logları
+*.csv
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.python-version
+
+# VS Code / IDE
+.vscode/
+.idea/
+
+logs/
+*.log
+signals_*.csv  # Günlük oluşan sinyal kayıtları
+
+
+# Kullanıcı bazlı API kayıt dosyası (isteğe bağlı)
+# user_apis.json
