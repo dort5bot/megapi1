@@ -8,5 +8,4 @@ def main():
     start_bot(updater)
 
 if __name__ == "__main__":
-    os.environ["TELEGRAM_TOKEN"] = "BURAYA_TELEGRAM_BOT_TOKENIN"
     main()
